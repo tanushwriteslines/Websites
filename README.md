@@ -1,2 +1,2 @@
 # Websites
-websites for HTML/CSS/JS
+This is a project for a restaurant website using basic html css some JS 
